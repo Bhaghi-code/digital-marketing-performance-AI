@@ -1,0 +1,7 @@
+channel,sessions,signups,signup_rate,avg_bounce_rate,avg_session_duration_sec
+Webinar,13831,554,0.0401,0.403,181.0
+Email,29383,989,0.0337,0.411,177.0
+Direct,32270,842,0.0261,0.412,166.0
+Organic Search,56429,1220,0.0216,0.39,160.0
+Paid Search,44293,741,0.0167,0.505,141.0
+LinkedIn,22170,350,0.0158,0.498,131.0
